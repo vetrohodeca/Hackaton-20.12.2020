@@ -10,10 +10,8 @@ void combinationUtil(int* arr, int n, int k, int index, int* data, int arrIndex)
             {
             	cout<<data[i];
             }
-            if(true)
-            {
-            	cout<<", ";
-			}
+           	cout<<", ";
+
         return; 
     } 
     if (arrIndex >= n) 
